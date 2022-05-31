@@ -12,4 +12,10 @@ module com.ligianedomingos.javafx {
 
     opens com.ligianedomingos.javafx to javafx.fxml;
     exports com.ligianedomingos.javafx;
+    exports com.ligianedomingos.javafx.application;
+    opens com.ligianedomingos.javafx.application to javafx.fxml;
+    exports gui;
+    opens gui to javafx.fxml;
+    exports com.ligianedomingos.javafx.gui;
+    opens com.ligianedomingos.javafx.gui to javafx.fxml;
 }
