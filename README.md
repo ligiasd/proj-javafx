@@ -16,3 +16,7 @@ Checklist:
 - VBox & HBox  
 - BorderPane  
 - ScrollPane  
+
+
+Obs.: add SceneBuilder no Intellid Idea   
+Setting > JavaFX > Path to SceneBuilder: "add local path...C:\... ScebeBuilder/SceneBuilver.exe 
