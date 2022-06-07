@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="739e29b5-987a-4ebb-9618-e97f19d17fc0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javafx2/util/Constraints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFX4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaFX4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaFX5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31034482" />
@@ -46,7 +47,7 @@
       <module name="javafx2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javafx2.*" />
+          <option name="PATTERN" value="com.example.javafx2.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
